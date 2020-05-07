@@ -24,14 +24,13 @@ import android.support.annotation.DrawableRes;
 import android.support.annotation.NonNull;
 import android.support.annotation.StringRes;
 import android.support.customtabs.CustomTabsIntent;
+import android.support.customtabs.browseractions.BrowserActionItem;
+import android.support.customtabs.browseractions.BrowserActionsIntent;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
 import java.util.ArrayList;
-
-import androidx.browser.browseractions.BrowserActionItem;
-import androidx.browser.browseractions.BrowserActionsIntent;
 
 public class BrowserActionActivity extends AppCompatActivity {
 
